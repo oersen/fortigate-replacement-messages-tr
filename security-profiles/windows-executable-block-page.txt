@@ -1,0 +1,2 @@
+Tehlikeli ek kaldırıldı. "%%FILE%%" dosyası çalıştırılabilir bir Windows dosyası olduğu için kaldırıldı.
+Karantina Dosya Adı: "%%QUARFILENAME%%".

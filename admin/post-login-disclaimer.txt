@@ -1,0 +1,16 @@
+SON UYARI:
+Bu özel bir bilgisayar sistemidir. Yetkisiz erişim veya
+kullanım yasaktır ve kovuşturmaya ve/veya disiplin cezasına
+tabidir. Bu sistemin herhangi bir şekilde kullanılması, her
+zaman izlenmeye rıza gösterilmesi anlamına gelir ve kullanıcılar
+herhangi bir gizlilik beklentisi hakkına sahip değildir. İzleme
+sonucunda ceza yasalarının ihlal edildiğine dair olası kanıtlar
+ortaya çıkarsa, bu kanıtlar ve kullanıcı hakkındaki kimlik
+bilgileri de dahil olmak üzere diğer ilgili bilgiler kolluk
+kuvvetlerine verilebilir. İzlemenin güvenlik düzenlemelerinin
+ihlalini veya yetkisiz kullanımı ortaya çıkarması halinde,
+güvenlik düzenlemelerini ihlal eden veya bu sistemi yetkisiz
+kullanan çalışanlar uygun disiplin cezasına tabidir.
+
+%%LAST_SUCCESSFUL_LOGIN%%
+%%LAST_FAILED_LOGIN%%

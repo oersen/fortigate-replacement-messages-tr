@@ -1,0 +1,2 @@
+Virüs/Solucan tespit edildi: %%VIRUS%%; Protokol: %%PROTOCOL%%; Gönderen E-posta Adresi: %%EMAIL_FROM%%; Alıcı E-posta Adresi: %%EMAIL_TO%%;
+VİRÜS REFERANS URL: %%VIRUS_REF_URL%%

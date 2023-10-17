@@ -1,0 +1,1 @@
+Veri sızıntısı tespit edildi! Konu: %%SUBJECT%%

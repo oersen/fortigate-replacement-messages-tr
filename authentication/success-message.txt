@@ -1,0 +1,2 @@
+Fortinet Güvenlik Duvarına Hoş Geldiniz
+Kimlik doğrulama başarılı, lütfen tekrar bağlanın.

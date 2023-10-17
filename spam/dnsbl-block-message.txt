@@ -1,0 +1,1 @@
+Bir DNSBL/ORDBL IP adresinden geldiği için bu mesaj engellendi.

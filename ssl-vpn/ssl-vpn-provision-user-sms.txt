@@ -1,0 +1,1 @@
+"%%FTCL_VPN_NAME%%" bağlantısını kurmak için FortiClient uygulamasını kurun ve şu bağlantıya tıklayın: %%FTCL_VPN_CONFIG_URL%%.

@@ -1,0 +1,1 @@
+Bilgisayarınız, güvenlik duvarı tarafından belirlenen makine denetimi gereksinimlerini karşılamıyor. Lütfen birkaç dakika içinde tekrar deneyin. Sorun devam ederse, işletim sistemi sürümünüzün asgari gereksinimleri karşıladığını, antivirüs ve güvenlik duvarı uygulamalarınızın düzgün bir şekilde kurulduğunu ve çalıştığını ve doğru ağ arayüzüne sahip olduğunuzu gözden geçirin.

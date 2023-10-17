@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+  <head>
+
+    <meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+
+    <meta http-equiv=Pragma content=no-cache>
+
+    <title>
+      Misafir Erişimi Kimlik Bilgileri
+    </title>
+
+    <style type="text/css">
+      body.printable{
+        background-color: white;
+        margin: 0 20px 0 20px;
+      }
+      div.first_section:not(:first-child){
+        page-break-before: always;
+      }
+      div.user_section{
+        padding: 15px;
+        border-bottom: 1px dotted #666;
+        font-family: Verdana, Arial, Sans-Serif;
+        font-size: 10pt;
+      }
+      div.user_header{
+        font-size: 14pt;
+        font-weight: bold;
+        height: 2em;
+      }
+      div.user_disc{
+        font-size: 8pt;
+        margin-bottom: 0.5in;
+      }
+      ul.user_details{
+        list-style-type: none;
+      }
+      li.user_info_field{
+        font-family: monospace;
+        page-break-before: avoid;
+      }
+      label.user_info_label{
+        font-weight: bold;
+        float: left;
+        width: 10em;
+        font-family: Verdana, Arial, Sans-Serif;
+      }
+
+    </style>
+
+  </head>
+
+  <body class="printable">
+    %%FOR(USERS:USER_SECTIONS)%%
+    <div class="user_section first_section">
+      %%FOR(PRINT_CREDENTIALS:USERS)%%
+      <div class="user_header">
+        Ağ Misafir Erişimi Kimlik Bilgileri
+      </div>
+      %%PRINT_CREDENTIALS%%
+      <div class="user_disc">
+        Yukarıdaki hesap, ağ erişim sağlayıcısının denetimi altında olmayan internet içeriğine erişmek için kullanılabilir. Bu nedenle ağ erişim sağlayıcısı bu sitelerin hiçbirinden, içeriklerinden veya gizlilik politikalarından sorumlu değildir. Ağ erişim sağlayıcısı ve personeli, bu siteler veya buralarda bulunan herhangi bir bilgi, yazılım veya diğer ürünler veya içerikler veya bunların kullanımından elde edilebilecek sonuçlar hakkında herhangi bir onay vermez veya beyanda bulunmaz. Herhangi bir internet içeriğine erişmeye karar verirseniz, bunu tamamen kendi sorumluluğunuzda yaparsınız ve erişilen içeriğin telif hakkı, ticari markalar, pornografi veya iftira niteliğinde, karalayıcı veya başka herhangi bir şekilde rahatsızlığa neden olabilecek diğer içerikleri kapsayan ancak bunlarla sınırlı olmayan yasaları ihlal etmemesini sağlamaktan siz sorumlusunuz.
+      </div>
+      %%ENDFOR%%
+    </div>
+    %%ENDFOR%%
+  </body>
+
+  <script type="text/javascript">
+    window.print();
+
+  </script>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+    <style>
+      body {
+        height: 100%;
+        font-family: Roboto, Helvetica, Arial, sans-serif;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .message-container{
+        margin: 0 auto;
+        max-width: 580px;
+      }
+      .email-body {
+        line-height: 1.5em;
+      }
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <div class="message-container">
+
+      <img src="https://filestore.fortinet.com/fortiguard/logo_v3_fguard_app.png" alt="Fortinet Logo"/>
+
+      <h1>
+        Security Fabric Otomasyonu
+      </h1>
+
+      <h3>
+        %%AUTOMATION_FGT_SERIAL%%: %%AUTOMATION_STITCH_NAME%%
+      </h3>
+
+      <div class="email-body">
+        %%AUTOMATION_EMAIL_BODY%%
+      </div>
+
+    </div>
+
+  </body>
+</html>

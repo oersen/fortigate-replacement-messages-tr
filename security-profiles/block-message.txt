@@ -1,0 +1,1 @@
+Olası tehlikeli dosya kaldırıldı. "%%FILE%%" dosyası engellendi. Dosya şu şekilde karantinaya alındı: "%%QUARFILENAME%%".

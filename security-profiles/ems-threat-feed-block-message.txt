@@ -1,0 +1,1 @@
+Tehlikeli ek kaldırıldı. "%%FILE%%" dosyası, "%%VIRUS%%" imzası EMS Tehdit Akışı tarafından tanındığı için kaldırıldı. Karantina dosya adı: "%%QUARFILENAME%%".

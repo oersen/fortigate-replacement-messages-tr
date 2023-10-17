@@ -1,0 +1,1 @@
+Şu kritik güvenlik duvarı olayı tespit edildi: %%CRITICAL_EVENT%%.

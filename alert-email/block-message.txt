@@ -1,0 +1,1 @@
+Dosya Engelleme Tespit Edildi: %%FILE%%; Protokol: %%PROTOCOL%%; Gönderen E-posta Adresi: %%EMAIL_FROM%%; Alıcı E-posta Adresi: %%EMAIL_TO%%

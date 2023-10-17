@@ -1,0 +1,1 @@
+Tehlikeli ek kaldırıldı. "%%FILE%%" dosyasına "%%VIRUS%%" virüsü bulaştı. Kaldırıldı ve "%%QUARFILENAME%%" olarak karantinaya alındı: "%%VIRUS_REF_URL%%"

@@ -1,0 +1,1 @@
+FortiGuard AntiSpam hizmeti tarafından engellenen bir IP adresinden geldiği için bu mesaj engellendi.

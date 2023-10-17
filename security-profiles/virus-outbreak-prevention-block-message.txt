@@ -1,0 +1,1 @@
+Tehlikeli ek kaldırıldı. "%%FILE%%" dosyası, "%%VIRUS%%" imzası Virüs Önleme hizmeti tarafından tanındığı için kaldırıldı. Karantina Dosya Adı: "%%QUARFILENAME%%".

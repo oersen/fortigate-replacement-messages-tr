@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" class="main-app">
+
+  <head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=8; IE=EDGE">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="apple-itunes-app" content="app-id=1475674905">
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon/favicon.ico" />
+
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+
+    <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#d43527" />
+
+    <link href="/styles.css" rel="stylesheet" type="text/css">
+
+    <link href="/css/legacy-main.css" rel="stylesheet" type="text/css">
+
+    <title>
+      Oturum Açın
+    </title>
+
+  </head>
+
+  <body>
+
+    <div class="view-container">
+
+      <form class="prompt legacy-prompt" action="%%SSL_ACT%%" method="%%SSL_METHOD%%" name="f" autocomplete="off">
+
+        <div class="content with-header">
+
+          <div class="header">
+
+            <f-icon class="ftnt-fortinet-grid icon-xl">
+
+            </f-icon>
+
+            <div id="login-login">
+              Oturum Açın
+            </div>
+
+          </div>
+
+          <div class="sub-content">
+
+            <div class="wide-inputs">
+              %%SSL_LOGIN%%
+            </div>
+
+            <div class="button-actions wide">
+
+              <button class="primary" type="button" name="login_button" id="login_button" onClick="try_login()">
+                Oturum Aç
+              </button>
+
+              <button type="button" name="skip_button" id="skip_button" onClick="try_skip()" style="display:none">
+                Atla
+              </button>
+
+              <button id="launch-forticlient-button" type="button" onClick="launchFortiClient()">
+
+                <f-icon class="ftnt-forticlient">
+
+                </f-icon>
+
+                <span>
+                  FortiClient'i Başlat
+                </span>
+
+              </button>
+
+              <iframe id="launch-forticlient-iframe" style="display:none">
+
+              </iframe>
+
+              <button id="saml-login-bn" class="primary" type="button" name="saml_login_bn" onClick="launchSamlLogin()" style="display:none">
+                SSO Login
+              </button>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </form>
+
+    </div>
+
+  </body>
+  %%SSL_HIDDEN%%
+</html>

@@ -1,0 +1,1 @@
+HELO/EHLO etki alanı geçersiz olduğu için bu mesaj engellendi.

@@ -1,0 +1,1 @@
+Kullanıcı ID=%%USERID%%Parola=%%PASSWORD%%Sona Erme=%%EXPIRE%%Kullanıcı Adı=%%USERNAME%%Cep Telefonu=%%MOBILEPHONE%%Sponsor=%%SPONSOR%%Şirket=%%COMPANY%%E-posta=%%EMAIL%%
